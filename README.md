@@ -1,10 +1,5 @@
 ## Hello World! Eu sou o Octávio Camargo
 
-
-- 🔭 Hoje trabalho com front-end 
-- 🌱 Estudando Javascript (Typescript/Node.js) 
-- 📫 Contate-me no e-mail: octaviocamargo208@gmail.com 
-
 <div>
   <a href="https://github.com/octaviocamargo208">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=octaviocamargo208&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

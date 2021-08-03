@@ -17,7 +17,7 @@
   <img align="center" alt="Otto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Otto-nodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Otto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="200em" align="right" alt="Otto-yoda" src="https://i.ibb.co/fGDkFcy/download20210802121911.png" alt="download20210802121911" border="0">
+  <img height="190em" align="right" alt="Otto-yoda" src="https://i.ibb.co/fGDkFcy/download20210802121911.png" alt="download20210802121911" border="0">
 </div>
   
   ##
@@ -26,5 +26,7 @@
     <a href="https://www.instagram.com/dev_octavio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
     <a href="https://www.linkedin.com/in/octavio-camargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:octaviocamargo208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     ![Snake animation](https://github.com/octaviocamargo208/octaviocamargo208/blob/output/github-contribution-grid-snake.svg)
+    
+   ![Snake animation](https://github.com/octaviocamargo208/octaviocamargo208/blob/output/github-contribution-grid-snake.svg)
+    
   </div>

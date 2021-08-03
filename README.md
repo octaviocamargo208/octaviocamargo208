@@ -12,7 +12,7 @@
   <img align="center" alt="Otto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Otto-nodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Otto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="160em" align="right" alt="Otto-yoda" src="https://i.ibb.co/fGDkFcy/download20210802121911.png" alt="download20210802121911" border="0">
+  <img height="148em" align="right" alt="Otto-yoda" src="https://i.ibb.co/fGDkFcy/download20210802121911.png" alt="download20210802121911" border="0">
 </div>
   
   ##
